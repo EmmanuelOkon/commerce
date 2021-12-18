@@ -23,7 +23,7 @@ const Info = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: coral;
+    /* background-color: coral; */
 `
 
 const Title = styled.h1`
