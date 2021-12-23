@@ -59,7 +59,7 @@ const Icon = styled.div`
     transition: all 0.5s ease;
 
     &:hover {
-        background-color: #E9F5F;
+        background-color: #E9F5F5;
         transform: scale(1.1);
     }
 `
